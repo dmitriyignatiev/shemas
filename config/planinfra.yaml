@@ -1,0 +1,8 @@
+postgres:
+  database: plan
+  user: postgres
+  password: postgres
+  host: localhost
+  port: 6543
+  minsize: 1
+  maxsize: 5
